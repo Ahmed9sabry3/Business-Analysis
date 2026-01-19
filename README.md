@@ -3,7 +3,8 @@
 
 ## Executive Summary
 
-We exported the sales data from our data base and we conducted some analysis on it to gain insights into some of our sales operations and study ways of enhancing our services based on a certain scope.
+This project analyzes exported sales data using Microsoft Excel to generate actionable insights that support business improvement and strategic decision-making. The analysis focuses on customer loyalty, customer experience, operational performance, and identifying strengths and weaknesses within sales operations.
+By working with multiple datasets—including Orders, Returns, People, and Shipping Costs—the project applies Excel-based analysis techniques to evaluate sales trends, return patterns, and cost efficiency. The results help improve service quality, optimize operations, and enhance overall customer satisfaction.
 
 ## Scope
 
@@ -22,3 +23,4 @@ Here Are the tables we used to conduct our analysis
 •	Returns
 •	People
 •	Shiping cost
+
